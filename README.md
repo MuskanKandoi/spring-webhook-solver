@@ -5,7 +5,7 @@ Spring Boot app that:
 - Solves Question 2 (based on regNo even) and stores the result
 - Submits final SQL query to returned webhook using JWT token
 
-**Your regNo:** 22BCI0242 (even) → Question 2 from the provided PDF. See the PDF uploaded by the user: citation required: fileciteturn0file0
+My regNo: 22BCI0242 (even) → Question 2 from the provided PDF
 
 ## How to build
 ```bash
